@@ -13,4 +13,4 @@ hotel-client
 4. add componentes no app 
 - <hotel-client></hotel-client> 
 
-
+![img.png](img.png)
