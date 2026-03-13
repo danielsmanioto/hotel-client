@@ -102,3 +102,9 @@ Arquivo de referência:
 ## 👤 Autor
 
 Projeto mantido por **Daniel Smanioto**.
+
+## 🏗️ Arquitetura
+
+Diagrama de arquitetura da solução:
+
+![Diagrama de arquitetura](docs/img.png)
